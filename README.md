@@ -1,7 +1,9 @@
 #  PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 **Nom:** Carles Sala
+
 **Data:** 19/12/2025
+
 **Grau:** Cultura Digital - Universitat Oberta de Catalunya (UOC)  
 
 ---
@@ -44,7 +46,9 @@ En conclusió, aquests moments al sofà amb la família són una lliçó pràcti
 
 ## Conclusions
 
-L'anàlisi de Twitch i els filtres d'Instagram ens confirma que el programari continua essent el motor de la innovació cultural. Aquests exemples ens mostren com la hibridació ha passat de ser una tècnica de postproducció a una experiència quotidiana i en temps real. Seguint els principis de Manovich, podem concloure que la nostra cultura ja no es consumeix en mitjans, sinó en interfícies de programari que hibriden constantment dades, imatges i interaccions.
+En conclusió, l'anàlisi de Twitch i els filtres d'Instagram ens confirma que el programari és el motor actual de la innovació cultural. Aquests exemples mostren com la hibridació ha passat de ser una tècnica professional de postproducció a una experiència quotidiana i en temps real. Seguint els principis de Manovich, la nostra cultura ja no es consumeix en "mitjans", sinó en interfícies de programari que hibriden constantment dades, imatges i interaccions.
+
+Aquest canvi ens converteix definitivament en "usuaris-operadors". A La Media Inglesa, el xat modifica la imatge de l'emissió a l'instant; al menjador de casa, la cara de la meva germana esdevé una interfície modular. El codi és el teixit invisible que connecta el futbol d'elit amb els nostres riures familiars. Ja no ens limitem a mirar la realitat; habitem una simulació on el programari ha redefinit completament el nostre llenguatge visual i social.
 
 ---
 
@@ -52,12 +56,9 @@ L'anàlisi de Twitch i els filtres d'Instagram ens confirma que el programari co
 
 * Manovich, L. (2013). *El software toma el mando*. Barcelona: UOC Press.
 * Manovich, L. (2001). *The Language of New Media*. MIT Press.
-* [Twitch.tv - Just Chatting Category](https://www.twitch.tv/directory/game/Just%20Chatting)
-* [Spark AR - Instagram Augmented Reality Tools](https://sparkar.facebook.com/ar-studio/)
 
 ---
 
 ## Ús de la Intel·ligència Artificial
 En la realització d'aquesta PAC, s'ha utilitzat la IA (Model: Gemini) per a les següents tasques:
-- **Suport a la documentació:** Cerca de conceptes específics dins l'obra de Manovich i selecció d'exemples actuals.
 - **Estructura i redacció:** Ajuda en l'organització dels apartats en Markdown i supervisió de l'estil gramatical en català.
